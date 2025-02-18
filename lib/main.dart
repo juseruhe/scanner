@@ -63,7 +63,7 @@ class _QRViewExampleState extends State<QRViewExample> {
     return Center(
       child: Container(
         width: 300,
-        height: 300,
+        height: 400,
         decoration: BoxDecoration(
           border: Border.all(
             color: Colors.red,
